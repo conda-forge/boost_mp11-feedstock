@@ -1,5 +1,5 @@
 {% set name = "boost_mp11" %}
-{% set version = "1.80.0" %}
+{% set version = "1.81.0" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://github.com/boostorg/mp11/archive/refs/tags/boost-{{ version }}.tar.gz
-  sha256: 7cbd70868106fd58f5bf2ccbe56aeb08cff9e166cae4e55505f06eb8639227bf
+  sha256: 924f50528079487087f763e3b0aa0087543b866b1858ae179f9e519a9cb68929
 
 build:
   number: 0
