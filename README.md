@@ -1,11 +1,11 @@
-About boost_mp11
-================
+About boost_mp11-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/boost_mp11-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/boostorg/mp11
 
 Package license: BSL-1.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/boost_mp11-feedstock/blob/main/LICENSE.txt)
 
 Summary: C++11 metaprogramming library
 
