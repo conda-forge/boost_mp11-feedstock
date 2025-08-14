@@ -81,7 +81,7 @@ Current release info
 
 | Name | Downloads | Version | Platforms |
 | --- | --- | --- | --- |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-boost_mp11-green.svg)](https://anaconda.org/conda-forge/boost_mp11) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/boost_mp11.svg)](https://anaconda.org/conda-forge/boost_mp11) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/boost_mp11.svg)](https://anaconda.org/conda-forge/boost_mp11) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/boost_mp11.svg)](https://anaconda.org/conda-forge/boost_mp11) |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-boost__mp11-green.svg)](https://anaconda.org/conda-forge/boost_mp11) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/boost_mp11.svg)](https://anaconda.org/conda-forge/boost_mp11) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/boost_mp11.svg)](https://anaconda.org/conda-forge/boost_mp11) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/boost_mp11.svg)](https://anaconda.org/conda-forge/boost_mp11) |
 
 Installing boost_mp11
 =====================
