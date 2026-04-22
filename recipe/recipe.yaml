@@ -2,7 +2,7 @@ schema_version: 1
 
 context:
   name: boost_mp11
-  version: 1.90.0
+  version: "1.91.0"
 
 package:
   name: ${{ name|lower }}
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://github.com/boostorg/mp11/archive/refs/tags/boost-${{ version }}.tar.gz
-  sha256: ca52bde753586dcba29739cfd55abb473bf80c934c6d49a2b58023ed4e48adf6
+  sha256: 6ab871e0ef397a2e7b0602f13a5f473a7381043c91b57fe907ca4925a6a1ee58
 
 build:
   number: 0
